@@ -62,10 +62,10 @@ The dataset contains Diwali sales transactions with the following attributes:
 ---
 
 ## 📂 Project Structure
--Diwali-Sales-Analysis/
--│
--├── Diwali Sales Data.csv # Dataset
--├── Diwali_Sales_Analysis.ipynb # Python analysis notebook
--├── README.md # Project documentation
+- Diwali-Sales-Analysis/
+- 
+- Diwali Sales Data.csv # Dataset
+- Diwali_Sales_Analysis.ipynb # Python analysis notebook
+- README.md # Project documentation
 
 ---
